@@ -2,7 +2,7 @@ from telegram import Update, ReplyKeyboardMarkup, InlineKeyboardButton, InlineKe
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackQueryHandler, CallbackContext
 import logging
 
-TOKEN = "6531282928:AAHy5Puta45HIf-fqMp_v2N24Y6Ev8Sm_W8"
+TOKEN = "token"
 ADMINS = {316509758, 123456789, 987654321}  # добавьте нужные user_id админов
 
 QUESTIONS = [
