@@ -1,5 +1,7 @@
 # README for Telegram Quiz Bot
 
+#DS - vadimwright
+
 ## Overview
 
 I made this bot in the "era" of quizzes. So that every participant could get a notification about the upcoming quiz, and also to test his knowledge on a quiz that I invented. Read more about what the bot can do below.
