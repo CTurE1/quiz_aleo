@@ -1,6 +1,6 @@
 # README for Telegram Quiz Bot
 
-#DS - vadimwright
+**DS - vadimwright**
 
 ## Overview
 
